@@ -11,11 +11,12 @@ import android.view.ViewGroup;
  * Created by ladleo on 3/24/17.
  */
 
-public class City extends Fragment {
+public class UserProfile extends Fragment{
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, Bundle savedInstanceState) {
-        View v = inflater.inflate(R.layout.city, container, true);
+        View v = inflater.inflate(R.layout.profile, container, false);
         return v;
     }
 }
+
