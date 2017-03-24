@@ -1,0 +1,14 @@
+<tabs>
+    <tab
+        id="@+id/action_profile"
+        title="@string/profile"
+        icon="@drawable/ic_person_black_24dp" />
+    <tab
+        id="@+id/action_post"
+        title="@string/post"
+        icon="@drawable/ic_add_a_photo_black_24dp" />
+    <tab
+        id="@+id/action_explore"
+        title="@string/explore"
+        icon="@drawable/ic_explore_black_24dp" />
+</tabs>

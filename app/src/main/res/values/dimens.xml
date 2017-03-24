@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="top_section">120dp</dimen>
+    <dimen name="mid_section">220dp</dimen>
+    <dimen name="bottom_margin">16dp</dimen>
+    <dimen name="general_margin">16dp</dimen>
+    <dimen name="top_slider_width">100dp</dimen>
+    <dimen name="padding_5">5dp</dimen>
+    <dimen name="margin_145">145dp</dimen>
+</resources>

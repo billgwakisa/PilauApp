@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PilauApp</string>
+    <string name="city">Kinondoni</string>
+    <string name="music">#Muziki</string>
+    <string name="username">Dennis</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed turpis arcu, eleifend posuere velit malesuada, commodo rutrum augue. Phasellus lorem arcu, auctor eu felis ac, scelerisque sodales nibh. Curabitur interdum, lectus eget maximus accumsan, quam ligula iaculis sem, at pharetra sem leo eu massa. Morbi est lorem, efficitur eu sapien ultrices, finibus condimentum urna.</string>
+    <string name="home">Home</string>
+    <string name="post_menu">Posts</string>
+    <string name="profile">profile</string>
+    <string name="post">post</string>
+    <string name="explore">explore</string>
+</resources>
