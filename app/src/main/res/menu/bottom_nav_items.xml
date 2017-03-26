@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_profile"
+        android:title="@string/profile"
+        android:icon="@drawable/ic_person_black_24dp"/>
+
+    <item
+        android:id="@+id/menu_new_post"
+        android:title="@string/new_post"
+        android:icon="@drawable/ic_add_a_photo_black_24dp"/>
+
+    <item
+        android:id="@+id/menu_explore"
+        android:title="@string/explore"
+        android:icon="@drawable/ic_explore_black_24dp"/>
+</menu>
